@@ -18,6 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+
+background-image: url('/img/Elagabalus.jpg')
 title: Xiaoxiong Lin Homepage
 email: ln.xxng@gmail.com
 description: under construction
@@ -27,7 +29,7 @@ twitter_username: Diogenes_LXX
 github_username:  xiaoxionglin
 
 # Build settings
-theme: minima
+theme: jekyll-swiss
 plugins:
   - jekyll-feed
 
