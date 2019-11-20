@@ -4,3 +4,4 @@
 
 layout: home
 ---
+This is the mostly professional homepage of Xiaoxiong Lin.
