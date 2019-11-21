@@ -20,16 +20,16 @@
 
 
 background-image: url('/img/Elagabalus.jpg')
-title: Xiaoxiong Lin Homepage
+title: Xiaoxiong Lin
 email: ln.xxng@gmail.com
-description: this page is under construction
+description: a mostly professional homepage
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Diogenes_LXX
 github_username:  xiaoxionglin
 
 # Build settings
-theme: jekyll-swiss
+theme: jekyll-swiss #jumbo-jekyll-theme # 
 plugins:
   - jekyll-feed
 
