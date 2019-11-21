@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Starting the site"
+date:   2019-11-21 10:47:58 +0100
+categories: jekyll update
+---
+Yesterday after some struggling with configuring the environment, I finally got jekyll to work as normal. Now here's the personal site. There'll be more contents, when I have time to add them.
