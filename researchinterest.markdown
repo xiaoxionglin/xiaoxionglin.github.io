@@ -1,6 +1,7 @@
 ---
 layout: page
-title: research interest
+title: Research
+longtitle: Research Interest
 permalink: /research/
 ---
 
