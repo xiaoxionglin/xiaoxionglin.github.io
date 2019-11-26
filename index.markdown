@@ -4,4 +4,5 @@
 
 layout: home
 ---
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 This is the mostly professional homepage of Xiaoxiong Lin.
